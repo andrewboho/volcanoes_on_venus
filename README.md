@@ -1,7 +1,7 @@
 # Detecting volcanos on Venus from SAR imagery taken by the Magellan spacecraft
 ## Thinkful final capstone
 
-!["Magellan spacecraft"](https://upload.wikimedia.org/wikipedia/commons/6/68/Magellan_-_artist_depiction.png "Magellan spacecraft")
+!["Magellan spacecraft"](https://github.com/andrewboho/volcanoes_on_venus/blob/master/img/magellan.png "Magellan spacecraft")
 
 This repository is organized as follows:
 
