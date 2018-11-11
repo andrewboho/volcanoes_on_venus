@@ -9,6 +9,7 @@ This repository is organized as follows:
 2. results - a directory with algorithm results outputted to JSON files used to maintain a model performance scoreboard
 3. final_model.json and final_model.h5 files - the fully trained model structure and weights
 4. project_utils.py - and ad-hoc library with home-spun functions used in this project
+5. img - a directory that contains the fancy image you see above
 
 The data was obtained from [Kaggle](https://www.kaggle.com/fmena14/volcanoesvenus/home).
 
