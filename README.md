@@ -10,6 +10,7 @@ This repository is organized as follows:
 3. final_model.json and final_model.h5 files - the fully trained model structure and weights
 4. project_utils.py - and ad-hoc library with home-spun functions used in this project
 5. img - a directory that contains the fancy image you see above
+6. final_capstone_presentation.pdf - Slide deck
 
 The data was obtained from [Kaggle](https://www.kaggle.com/fmena14/volcanoesvenus/home).
 
